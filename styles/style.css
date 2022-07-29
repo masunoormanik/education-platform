@@ -1,0 +1,23 @@
+.home .carousel-item{
+    min-height: 80vh;
+    background-position: center;
+    background-color: #000;
+    opacity: 75;
+    background-size: cover;
+}
+.home .carousel-item .container{
+    /* width: 80%; */
+    color: aliceblue;
+    text-align: center;
+    margin-top: 30vh;
+}
+.container h1{
+    /* font-size: 2em; */
+}
+
+.company-brand img{
+    margin-left: 35px;
+    width: 90px;
+    height: 30px;
+
+}
